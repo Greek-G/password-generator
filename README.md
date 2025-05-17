@@ -21,3 +21,4 @@ A customizable and responsive random password generator built with **React**, **
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
