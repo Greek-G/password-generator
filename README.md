@@ -14,6 +14,23 @@ A customizable and responsive random password generator built with **React**, **
     - Symbols
 - Copy password to clipboard (optional to add)
 - Responsive and clean UI
+## Demo Screenshot
+
+![Password Generator UI](screenshot.png)
+## Structure 
+
+password-generator/
+│
+├── public/                 # Static assets and index.html
+├── src/
+│   ├── components/         # React components
+│   ├── App.tsx             # Main app component
+│   ├── main.tsx            # Entry point
+│   └── styles/             # Tailwind CSS and other styles
+├── tailwind.config.js      # Tailwind configuration
+├── package.json            # Project dependencies and scripts
+└── README.md               # Project documentation
+
 
 ## 🛠️ Built With
 
