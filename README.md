@@ -16,7 +16,7 @@ A customizable and responsive random password generator built with **React**, **
 - Responsive and clean UI
 ## Demo Screenshot
 
-![Password Generator UI](screenshot.png)
+![Password Generator UI](/project/screenshot.jpeg)
 ## Structure 
 
 password-generator/
